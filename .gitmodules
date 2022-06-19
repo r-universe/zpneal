@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "backbone"]
+	path = backbone
+	url = https://github.com/zpneal/backbone
+	shallow = true
+	registered = true
+[submodule "incidentally"]
+	path = incidentally
+	url = https://github.com/zpneal/incidentally
+	shallow = true
+	registered = true
