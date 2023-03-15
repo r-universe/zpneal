@@ -4,11 +4,11 @@
     "oncran": true
   },
   {
-    "package": "grand",
+    "package": "incidentally",
     "oncran": true
   },
   {
-    "package": "incidentally",
+    "package": "grand",
     "oncran": true
   }
 ]

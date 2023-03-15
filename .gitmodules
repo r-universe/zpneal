@@ -8,13 +8,13 @@
 	url = https://github.com/zpneal/backbone
 	shallow = true
 	registered = true
-[submodule "grand"]
-	path = grand
-	url = https://github.com/zpneal/grand
-	shallow = true
-	registered = true
 [submodule "incidentally"]
 	path = incidentally
 	url = https://github.com/zpneal/incidentally
+	shallow = true
+	registered = true
+[submodule "grand"]
+	path = grand
+	url = https://github.com/zpneal/grand
 	shallow = true
 	registered = true
