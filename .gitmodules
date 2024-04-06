@@ -5,6 +5,9 @@
 [submodule "backbone"]
 	path = backbone
 	url = https://github.com/zpneal/backbone
+[submodule "childfree"]
+	path = childfree
+	url = https://github.com/zpneal/childfree
 [submodule "grand"]
 	path = grand
 	url = https://github.com/zpneal/grand
