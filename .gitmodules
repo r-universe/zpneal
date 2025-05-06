@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "KOLaide"]
+	path = KOLaide
+	url = https://github.com/zpneal/kolaide
 [submodule "backbone"]
 	path = backbone
 	url = https://github.com/zpneal/backbone
