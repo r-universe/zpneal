@@ -11,9 +11,6 @@
 [submodule "childfree"]
 	path = childfree
 	url = https://github.com/zpneal/childfree
-[submodule "grand"]
-	path = grand
-	url = https://github.com/zpneal/grand
 [submodule "incidentally"]
 	path = incidentally
 	url = https://github.com/zpneal/incidentally
